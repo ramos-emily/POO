@@ -45,6 +45,13 @@
 # print(result)
 
 
+# Crie uma classe chamada Personagem que irá receber como construtor o nome completo,
+# altura, peso e resistência (0-100) do personagem, além disso, também crie um método
+# que se chame poder que conterá todos os atributos de instancia como privado não sendo
+# possível alterá-los, sendo estes: magia, persuasão, agilidade e forca, cada um avaliada de 0 a 100,
+# por fim, retorne apenas a soma de todos os pontos fornecidos. Crie 3 objetos personagens e
+# imprima o nome completo e quantidade de poder total do mais forte.
+# """
 
 
 
